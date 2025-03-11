@@ -10,5 +10,5 @@
 
 💙 Join the channel to see more videos like this. [C:\Users\gaura\Desktop\git\preview.png)
 
-![preview img](/preview.png)
+![preview img](C:\Users\gaura\Desktop\git\preview.png)
 
