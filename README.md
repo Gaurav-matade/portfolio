@@ -10,6 +10,4 @@
 
 💙 Join the channel to see more videos like this. (C:\Users\gaura\Desktop\git\assets\img\Screenshot 2025-03-11 172219.png)
 
-![preview img](![preview](https://github.com/user-attachments/assets/ed1e217c-3479-4cef-a608-b56fef2c1b24)
-)
-
+![preview img](![preview](C:\Users\gaura\Desktop\git\assets\img\Screenshot 2025-03-11 172219.png)
